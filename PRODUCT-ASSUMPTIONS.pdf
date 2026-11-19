@@ -1,0 +1,126 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4539 >>
+stream
+BT /F1 8 Tf 0.5 0.5 0.5 rg 240 30 Td (Page 1 of 2 - CampusTrace Milestone-1) Tj ET
+BT /F2 18 Tf 0.1 0.2 0.55 rg 50 740 Td (Product Assumption Document) Tj ET
+BT /F1 9 Tf 0.4 0.45 0.5 rg 50 714 Td (Project: CampusTrace \(College Lost & Found Portal\)  |  Course: Web App Dev) Tj ET
+BT /F1 9 Tf 0.4 0.45 0.5 rg 50 700 Td (Startup Inspiration: Boomerang \(YC S22 / Product Hunt #1\)) Tj ET
+0.8 0.85 0.9 RG 1.5 w 50 680 m 545 680 l S
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 656 Td (1. What product are you planning to build?) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 638 Td (We are building a simple and dedicated Lost & Found website for our college campus) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 624.5 Td (called CampusTrace.) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 607 Td (It is a web portal where any student, teacher, or campus worker can quickly post an item) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 593.5 Td (they lost or an item they found somewhere on campus. Instead of having to walk to) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 580 Td (different blocks or ask around blindly, students can just open the site, select their) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 566.5 Td (building \(like Library, Cafeteria, or Block B\), search for what they misplaced, and see) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 553 Td (if anyone found it and where it is currently kept.) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 527.5 Td (2. What problem does it solve?) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 509.5 Td (Right now in our college, when someone loses an item like a calculator, student ID card,) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 496 Td (earphones, hostel keys, or a notebook, there is no proper system to get it back:) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 478.5 Td (- Everything is scattered: Items sit with security at Gate 1, library desks, or) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 465 Td (staff rooms. Nobody knows where to look.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 449.5 Td (- WhatsApp groups get buried: Lost item photos in class groups get drowned under) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 436 Td (memes and notices within hours.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 420.5 Td (- Items sit unclaimed: Without a searchable list, items sit in drawers for months) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 407 Td (and eventually get thrown away.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 391.5 Td (- Risk of wrong claims: For valuable items, anyone can falsely claim them because) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 378 Td (there is no proof verification.) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 362.5 Td (CampusTrace gives the entire college one searchable website with building filters and a) Tj ET
+BT /F1 9.5 Tf 0.15 0.15 0.2 rg 50 349 Td (verification challenge.) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 323.5 Td (3. Who are the target users?) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 305.5 Td (- College Students: Who lose daily items in lecture halls, labs, canteens, and) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 292 Td (sports grounds.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 276.5 Td (- Students who find items: Who want a 30-second way to report items without) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 263 Td (paperwork.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 247.5 Td (- Campus Security and Helpdesk Staff: Who hold items in safe custody and need to) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 234 Td (verify claimants.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 218.5 Td (- Faculty & Lab Assistants: Who find items left behind after lectures or lab) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 205 Td (sessions.) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 181.5 Td (4. What is the main use case?) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 163.5 Td (- Use Case 1 \(Losing an item\): A student loses a Casio calculator in Block B Room) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 150 Td (204, searches on CampusTrace, views where it was deposited, and clicks Claim with a) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 136.5 Td (secret proof answer.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 121 Td (- Use Case 2 \(Finding an item\): A student finds keys near the canteen, gives them to) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 107.5 Td (Security Gate 1, and logs a Found notice specifying Gate 1 custody.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 92 Td (- Use Case 3 \(Security Handover\): The owner provides verification proof at Gate 1,) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 78.5 Td (security confirms the match, and marks the item Reunited.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3910 >>
+stream
+BT /F1 8 Tf 0.5 0.5 0.5 rg 240 30 Td (Page 2 of 2 - CampusTrace Milestone-1) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 732 Td (5. What are the core features?) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 714 Td (- Browse & Search Feed: Filter listings by Lost, Found, or Reunited.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 698.5 Td (- Location & Category Filters: Select campus buildings \(Library, Block A, Cafeteria\)) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 685 Td (and categories.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 669.5 Td (- Real-Time Search: Search by keywords like calculator, AirPods, or roll number.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 654 Td (- Post Lost / Found Forms: Structured logging with custody locations and challenge) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 640.5 Td (questions.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 625 Td (- Ownership Claim Modal: Claimants must provide proof details before collecting) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 611.5 Td (items.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 596 Td (- Security Admin View: Master table for campus security to review claims and mark) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 582.5 Td (items Reunited.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 567 Td (- My Items Page: Personal dashboard tracking reported items and submitted claims.) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 543.5 Td (6. What assumptions are you making about the users?) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 525.5 Td (- Digital Access: Students and staff have internet access via smartphones or laptops) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 512 Td (on campus.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 496.5 Td (- Campus Geography: Users know standard campus landmarks \(Block B, Central Library,) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 483 Td (Cafeteria\).) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 467.5 Td (- Community Spirit: People will log found items if the form is fast and) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 454 Td (friction-free.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 438.5 Td (- Privacy Conscious: Contact is mediated via roll numbers and custody desks, not) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 425 Td (public phone numbers.) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 401.5 Td (7. What will be included in our MVP?) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 383.5 Td (- Working Next.js and Tailwind CSS web application.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 368 Td (- Landing page with live recovery stats \(recovery rate, active lost, found in) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 354.5 Td (custody\).) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 339 Td (- Searchable directory with status tabs and campus location dropdowns.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 323.5 Td (- Working submission forms for reporting lost and found belongings.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 308 Td (- Security verification claim modal and admin resolution console.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 292.5 Td (- 1-click role switcher in navbar \(Student vs Security Officer\).) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 277 Td (- 8+ realistic campus records persisted via React Context and LocalStorage.) Tj ET
+BT /F2 12 Tf 0.12 0.25 0.55 rg 50 253.5 Td (8. What will NOT be included in the MVP?) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 235.5 Td (- No GPS tracking or physical Bluetooth/RFID hardware beacons.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 220 Td (- No cash rewards or payment gateway integration.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 204.5 Td (- No automated AI computer vision matching \(verification is done by human review\).) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 189 Td (- No external SQL cloud database \(all state handled via Context & LocalStorage per) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 67 175.5 Td (guidelines\).) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 55 160 Td (- No paid SMS OTP gateway; uses college roll numbers and emails.) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000408 00000 n 
+0000004999 00000 n 
+0000005141 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+9103
+%%EOF

@@ -1,0 +1,154 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+      xmlns:w='urn:schemas-microsoft-com:office:word'
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Product Assumption Document - CampusTrace</title>
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<style>
+  body {
+    font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #1a1a1a;
+    margin: 1in;
+  }
+  h1 {
+    font-size: 20pt;
+    color: #1e3a8a;
+    border-bottom: 2pt solid #2563eb;
+    padding-bottom: 4pt;
+    margin-bottom: 12pt;
+  }
+  h2 {
+    font-size: 13pt;
+    color: #1e40af;
+    margin-top: 16pt;
+    margin-bottom: 6pt;
+  }
+  p {
+    margin-bottom: 8pt;
+    text-align: justify;
+  }
+  ul {
+    margin-top: 4pt;
+    margin-bottom: 10pt;
+    padding-left: 20pt;
+  }
+  li {
+    margin-bottom: 4pt;
+  }
+  .meta-table {
+    width: 100%;
+    margin-bottom: 16pt;
+    font-size: 10pt;
+    color: #4b5563;
+    border-bottom: 1pt solid #e5e7eb;
+    padding-bottom: 8pt;
+  }
+  .highlight-box {
+    background-color: #f8fafc;
+    border: 1pt solid #cbd5e1;
+    padding: 8pt 12pt;
+    margin: 8pt 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="meta-table">
+  <strong>Milestone-1 Graded Deliverable (25 Marks) &bull; Phase 1: "What Will You Develop?"</strong><br>
+  <strong>Project:</strong> CampusTrace &mdash; College Lost &amp; Found Portal<br>
+  <strong>Inspiration:</strong> Boomerang (YC S22 / Product Hunt #1)
+</div>
+
+<h1>Product Assumption Document</h1>
+
+<h2>1. What product are you planning to build?</h2>
+<p>
+  We are building a simple and dedicated Lost &amp; Found website for our college campus called <strong>CampusTrace</strong>.
+</p>
+<p>
+  It is a web portal where any student, teacher, or campus worker can quickly post an item they lost or an item they found somewhere on campus. Instead of having to walk to different blocks or ask around blindly, students can just open the site, select their building (like Library, Cafeteria, or Block B), search for what they misplaced, and see if anyone found it and where it is currently kept.
+</p>
+
+<h2>2. What problem does it solve?</h2>
+<p>Right now in our college, when someone loses an item like a calculator, student ID card, earphones, hostel keys, or a notebook, there is no proper system to get it back:</p>
+<ul>
+  <li><strong>Everything is scattered:</strong> A found water bottle might be sitting with the security guard at Gate 1, while an ID card might be sitting on a librarian's desk or in a department staff room. Nobody knows where to look first.</li>
+  <li><strong>WhatsApp groups don't work well:</strong> People usually send a photo to their class WhatsApp or unofficial college groups. But within a few hours, that message gets buried under hundreds of other texts, memes, and assignment notices, so the owner never sees it.</li>
+  <li><strong>Items just sit unclaimed:</strong> Because there is no central list you can search, most lost items just stay inside office drawers for months and eventually get thrown away or forgotten.</li>
+  <li><strong>Risk of the wrong person taking it:</strong> If someone finds an expensive item like wireless earbuds, anyone can just walk up and say "that's mine" because there's no way to verify who it actually belongs to.</li>
+</ul>
+<p>CampusTrace solves this by giving the entire college one single website to check, with campus building filters and a simple verification question so only the rightful owner can claim an item.</p>
+
+<h2>3. Who are the target users?</h2>
+<ul>
+  <li><strong>College Students:</strong> The main users. Students who lose daily items in lecture halls, computer labs, the canteen, or hostel corridors.</li>
+  <li><strong>Students who find items:</strong> Anyone who picks up something left behind and wants a 30-second way to report it without getting stuck doing paperwork.</li>
+  <li><strong>Campus Security and Helpdesk Staff:</strong> The security guards at the main gate and the desk staff at the library who physically store lost belongings until someone comes to pick them up.</li>
+  <li><strong>Faculty &amp; Lab Assistants:</strong> Teachers and lab in-charges who regularly find chargers, USB drives, or notebooks left behind on desks after lab hours.</li>
+</ul>
+
+<h2>4. What is the main use case?</h2>
+<p><strong>Scenario 1 &mdash; Student who lost an item:</strong><br>
+Say a 2nd-year student leaves their Casio scientific calculator in Academic Block B, Room 204. They go to the site on their phone, filter by "Block B", and check recent electronics. If someone already reported finding it, they see where it was submitted (e.g. "Handed to Library Desk") and click "Claim". If it's not listed yet, they post a quick Lost notice with their contact info and a secret question like: <em>"What is written in pencil inside the cover?"</em></p>
+
+<p><strong>Scenario 2 &mdash; Student or staff who finds an item:</strong><br>
+Another student finds a set of keys near the canteen. They take it to the Main Gate security desk, open the website, and post a Found notice: <em>"Room key with Marvel keychain found near canteen, handed over to Security Gate 1."</em></p>
+
+<p><strong>Scenario 3 &mdash; Handing it back securely:</strong><br>
+The student who lost the keys sees the notice, submits their claim explaining which room number is scratched on the key, and goes to Gate 1 with their college ID card to collect it. The security guard checks the answer, gives them the keys, and marks the case as closed on the website.</p>
+
+<h2>5. What are the core features?</h2>
+<ul>
+  <li><strong>Browse &amp; Search Feed:</strong> A clean dashboard where you can see all listings or filter by "Lost", "Found", or "Reunited".</li>
+  <li><strong>Filter by Location &amp; Category:</strong> Quick dropdowns to filter by campus locations (Block A, Block B, Central Library, Cafeteria, Sports Ground, Hostels) and categories (Electronics, IDs, Keys, Books, Personal Items).</li>
+  <li><strong>Search Bar:</strong> Real-time search by keywords like "calculator", "AirPods", "blue umbrella", or student roll numbers.</li>
+  <li><strong>Post a Lost Item Form:</strong> Simple form with item name, location last seen, date, description, photo, and a secret challenge question.</li>
+  <li><strong>Post a Found Item Form:</strong> Form to log a found item, including the exact safe location where the finder left it (e.g. "Main Security Gate 1").</li>
+  <li><strong>Claim Item Verification Box:</strong> A popup where the claimant must describe unique details or answer the challenge question before they can pick it up.</li>
+  <li><strong>Security Admin View:</strong> A simple table view for campus security to see all items in custody, review claims, and mark items as "Reunited".</li>
+  <li><strong>My Items Page:</strong> A page where a logged-in student can see the items they reported and check if their claims were approved.</li>
+</ul>
+
+<h2>6. What assumptions are you making about the users?</h2>
+<ul>
+  <li><strong>Everyone has a phone or laptop:</strong> We assume college students and staff have a smartphone or laptop with internet access while on campus.</li>
+  <li><strong>Students know campus building names:</strong> We assume users know basic campus spots like "Block B", "Library Floor 2", or "Hostel Mess".</li>
+  <li><strong>People are honest enough to report:</strong> We assume students are willing to report found items if the form is fast and doesn't ask for complicated login steps.</li>
+  <li><strong>Privacy matters:</strong> Students don't want their personal phone numbers posted publicly on the internet for everyone to see. So communication should happen through college roll numbers, college email, or the security desk.</li>
+</ul>
+
+<h2>7. What will be included in our MVP?</h2>
+<ul>
+  <li>Complete working frontend built with Next.js and Tailwind CSS.</li>
+  <li>Home page with live stats (total lost, found, and recovery rate).</li>
+  <li>Browse page with real-time search, category filters, and campus location filters.</li>
+  <li>Working forms to post both Lost and Found items.</li>
+  <li>Item detail page with the "Claim Item" popup and verification challenge.</li>
+  <li>Security / Admin desk page to approve claims and mark items as returned.</li>
+  <li>Role switch button in the navigation bar to easily switch between Student and Security view for demoing.</li>
+  <li>Realistic pre-loaded dummy data with 8+ real college items stored in React Context and LocalStorage so nothing disappears when refreshing the browser.</li>
+  <li>Fully responsive layout that looks great on mobile phones and laptops.</li>
+</ul>
+
+<h2>8. What will NOT be included in the MVP?</h2>
+<ul>
+  <li><strong>No GPS tracking or Bluetooth beacons:</strong> We are not using physical AirTags, RFID chips, or live Google Maps pins. We are sticking to campus building and room tags.</li>
+  <li><strong>No cash rewards or payment system:</strong> We don't want people trying to extort money for returning lost items on college property, so there is no wallet or payment gateway.</li>
+  <li><strong>No AI image recognition:</strong> We are not doing automatic image scanning to match items. Claim verification will be checked by real humans reading the owner's description.</li>
+  <li><strong>No external cloud database:</strong> As stated in the Milestone 1 guidelines, backend database integration is not required yet. Everything runs smoothly on React Context and browser storage.</li>
+  <li><strong>No SMS OTP service:</strong> Sending SMS costs money, so we will use college emails and roll numbers instead of mobile OTPs.</li>
+</ul>
+
+</body>
+</html>
