@@ -1,0 +1,148 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+      xmlns:w='urn:schemas-microsoft-com:office:word'
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Milestone-1 Project Submission &amp; GitHub Link</title>
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<style>
+  body {
+    font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+    font-size: 11.5pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    margin: 1in;
+  }
+  .header-card {
+    border-bottom: 2.5pt solid #2563eb;
+    padding-bottom: 8pt;
+    margin-bottom: 16pt;
+  }
+  .title {
+    font-size: 22pt;
+    font-weight: bold;
+    color: #1e3a8a;
+    margin: 0 0 6pt 0;
+  }
+  .subtitle {
+    font-size: 12pt;
+    color: #4b5563;
+  }
+  .link-box {
+    background-color: #eff6ff;
+    border: 1.5pt solid #3b82f6;
+    border-radius: 6pt;
+    padding: 12pt 16pt;
+    margin: 16pt 0;
+  }
+  .link-title {
+    font-size: 11pt;
+    font-weight: bold;
+    color: #1e40af;
+    text-transform: uppercase;
+    letter-spacing: 0.5pt;
+    margin-bottom: 4pt;
+  }
+  .url-text {
+    font-size: 13pt;
+    font-family: Consolas, monospace;
+    font-weight: bold;
+    color: #1d4ed8;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 14pt 0;
+  }
+  th, td {
+    border: 1pt solid #cbd5e1;
+    padding: 8pt 10pt;
+    text-align: left;
+    font-size: 10.5pt;
+  }
+  th {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    font-weight: bold;
+  }
+  h2 {
+    font-size: 14pt;
+    color: #1e3a8a;
+    margin-top: 18pt;
+    margin-bottom: 6pt;
+  }
+  ul {
+    margin: 4pt 0 10pt 0;
+    padding-left: 20pt;
+  }
+  li {
+    margin-bottom: 4pt;
+  }
+</style>
+</head>
+<body>
+
+<div class="header-card">
+  <div class="title">Milestone-1: Project Submission</div>
+  <div class="subtitle"><strong>Course:</strong> Web Application Development &bull; Graded Milestone (25 Marks)</div>
+</div>
+
+<div class="link-box">
+  <div class="link-title">🔗 Official GitHub Repository Link:</div>
+  <div class="url-text"><a href="https://github.com/thanzeer-tech/lost-and-found" style="color: #1d4ed8; text-decoration: none;">https://github.com/thanzeer-tech/lost-and-found</a></div>
+  <p style="margin: 6pt 0 0 0; font-size: 9.5pt; color: #64748b;">
+    Code, documentation, wireframes, and design system are publicly available at this link.
+  </p>
+</div>
+
+<h2>Project Overview</h2>
+<table>
+  <tr>
+    <th style="width: 30%;">Project Name</th>
+    <td><strong>CampusTrace</strong> (College Lost &amp; Found Portal)</td>
+  </tr>
+  <tr>
+    <th>Startup Inspiration</th>
+    <td><strong>Boomerang</strong> (Y Combinator S22 / Product Hunt #1 Product of the Day)</td>
+  </tr>
+  <tr>
+    <th>Tech Stack</th>
+    <td>Next.js 14 (App Router), React 18, Tailwind CSS, React Context API, Lucide Icons</td>
+  </tr>
+  <tr>
+    <th>Team Structure</th>
+    <td>
+      <strong>Student 1 (Architecture Lead):</strong> Next.js Setup, React Context Engine, Security Desk (/admin), Authentication<br>
+      <strong>Student 2 (UI Lead):</strong> Design System, Landing Page, Reusable Component Library, Forms, Dummy Dataset
+    </td>
+  </tr>
+</table>
+
+<h2>Key Deliverables Included in GitHub Repository</h2>
+<ul>
+  <li><strong>PRODUCT-ASSUMPTIONS.md:</strong> Complete 8-question product assumption and scope document.</li>
+  <li><strong>DESIGN-SYSTEM.md:</strong> Color tokens (#2563EB), typography scale (Inter), and 12 reusable UI component tokens.</li>
+  <li><strong>WIREFRAME.md:</strong> Complete page blueprints, information architecture, and user flows.</li>
+  <li><strong>PROJECT-PLAN.md:</strong> 14 GitHub Issues breakdown with student assignments and git workflow.</li>
+  <li><strong>Working Next.js Application:</strong> Fully functioning frontend with real-time directory search, campus filters, report forms, anti-fraud claim verification, and custody desk administration.</li>
+</ul>
+
+<h2>How to Run Locally from GitHub</h2>
+<ol style="padding-left: 20pt; font-size: 10.5pt;">
+  <li><code>git clone https://github.com/thanzeer-tech/lost-and-found.git</code></li>
+  <li><code>cd lost-and-found</code></li>
+  <li><code>npm install</code></li>
+  <li><code>npm run dev</code></li>
+  <li>Open <code>http://localhost:3000</code> in your browser.</li>
+</ol>
+
+</body>
+</html>
